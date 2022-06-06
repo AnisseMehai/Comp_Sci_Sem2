@@ -1,0 +1,11 @@
+thislist = (6,9,32,28,15,22,3,18
+print(thislist)
+x = input("Put these numbers in order from biggest to smallest")
+mynumbers = (h)
+print (mynumbers)
+a = (mynumbers 0)
+c = (mynumbers 8)
+t = (mynumbers 4)
+print("Maximum is " + a)
+print("Minimum is " + c)
+print("Median is " + t)

@@ -1,0 +1,6 @@
+x = int(7)
+y = int(8)
+z = str(8*7)
+x = int(input("whats your first number"))
+y = int(input("whats your second number"))
+print(z)
